@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UCa6XiKfIARAFwbCDORqWBaA">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=mind2cloud&style=flat-square&color=blue" alt=""/>
