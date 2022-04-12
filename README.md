@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=mind2cloud&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="380"/>
