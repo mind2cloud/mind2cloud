@@ -40,7 +40,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Computer Vision.
 
-- :zap: In my free time, I solve tasks on Colab and read tech articles.
+- :zap: In my free time, I solve tasks in Colab and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
