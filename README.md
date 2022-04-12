@@ -64,12 +64,12 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://i.pinimg.com/originals/33/3a/82/333a82a83897548cf70ab4860db833eb.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://blog.kathyreid.id.au/wordpress/wp-content/uploads/2020/12/latex-logo-png-transparent-1536x1536.png" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1629881695/hevo-learn/AirflowLogo-1.png" title="Airflow" **alt="Airflow" width="100" height="40"/>&nbsp;
   <img src="https://brodewicz.tech/wp-content/uploads/2020/05/output-onlinepngtools.png" title="Hadoop" **alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/curious/uploads/pictures/1512823737-1.png" title="Spark" **alt="Spark" width="65" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/originals/33/3a/82/333a82a83897548cf70ab4860db833eb.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://blog.kathyreid.id.au/wordpress/wp-content/uploads/2020/12/latex-logo-png-transparent-1536x1536.png" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
