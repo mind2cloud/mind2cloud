@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 ### :man_technologist: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
-- :telescope: I’m Master Degree Student at Lomonosov MSU.
+- :telescope: I’m Master Degree Student at Julius-Maximilians-Universität Würzburg, Germany.
 
-- :seedling: Exploring Computer Vision.
+- :seedling: Exploring Large Language Models, Computer Vision.
 
 - :zap: In my free time, I solve tasks in Colab and read tech articles.
 
