@@ -1,4 +1,4 @@
-Hi, I'm Roman.
+Hi, I'm Roman!
 
 I'm a data scientist with an applied math background. I like problems where LLMs do more than chat: designing neural networks, reasoning over knowledge graphs, and automating the tedious parts of ML.
 
