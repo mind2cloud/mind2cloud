@@ -6,4 +6,5 @@ I recently finished my M.Sc. in Computer Science at the University of Würzburg 
 
 More about my work: [mind2cloud.github.io](https://mind2cloud.github.io/)
 
-[LinkedIn](https://www.linkedin.com/in/mind2cloud/) · [Google Scholar](https://scholar.google.com/citations?user=_z2NX1cAAAAJ&hl=en)
+<a href="https://www.linkedin.com/in/mind2cloud/"><img src="https://mind2cloud.github.io/images/linkedin.png" alt="" height="16" align="absmiddle"></a> <a href="https://www.linkedin.com/in/mind2cloud/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=_z2NX1cAAAAJ&hl=en"><img src="https://mind2cloud.github.io/images/scholar.png" alt="" height="16" align="absmiddle"></a> <a href="https://scholar.google.com/citations?user=_z2NX1cAAAAJ&hl=en">Google Scholar</a>
