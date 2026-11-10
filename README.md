@@ -2,7 +2,7 @@ Hi, I'm Roman!
 
 I'm a data scientist and machine learning engineer with an applied math background and two years of experience in banking and consulting, where I worked on credit scoring, analytics and process automation.
 
-I recently finished my M.Sc. in Computer Science at the University of Würzburg, with a thesis on symbolic reasoning with advanced RAG systems, written at the Bosch Center for AI. My research has appeared at CVPRW, ICCVW and ISWC. More about my work: https://mind2cloud.github.io
+I recently finished my M.Sc. in Computer Science at the University of Würzburg, with a thesis on symbolic reasoning with advanced RAG systems, written at the Bosch Center for AI. My research has appeared at CVPRW, ICCVW and ISWC.
 
 More about my work: [mind2cloud.github.io](https://mind2cloud.github.io/)
 
